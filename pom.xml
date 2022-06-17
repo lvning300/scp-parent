@@ -24,7 +24,7 @@
 
         <mybatis-plus.version>3.1.1</mybatis-plus.version>
         <swagger.version>2.9.2</swagger.version>
-        <fastjson.version>1.2.49</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <kaptcha.version>2.3.2</kaptcha.version>
 
         <json.patch.version>1.9</json.patch.version>
